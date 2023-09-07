@@ -1,4 +1,5 @@
-The logic in coding behind Tic-Tac-Toe game is:
+![download](https://github.com/Somali2424/PyToe_Outsmarting_Xs_AND_Os/assets/137525083/7a2c2a62-2444-407b-904b-3970924d5145)
+The logic in coding behind the Tic-Tac-Toe game is:
 
 
 **Interactive Gameplay:** The game offers a command-line interface where two players can take turns to make their moves by specifying the row and column for their respective symbols, 'X' and 'O'.
